@@ -1,7 +1,7 @@
 url: https://assess.peachcars.co.ke/
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2025-06-25T23:34:03.275Z
+status: down
+code: 502
+responseTime: 3961
+lastUpdated: 2025-06-26T19:43:03.330Z
 startTime: 2025-06-20T07:30:12.446Z
 generator: Upptime <https://github.com/upptime/upptime>
