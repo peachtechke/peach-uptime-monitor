@@ -40,18 +40,20 @@
     "url": "https://assess.peachcars.co.ke/",
     "icon": "https://icons.duckduckgo.com/ip3/assess.peachcars.co.ke.ico",
     "slug": "peach-assessment-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 632,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
-    "dailyMinutesDown": {}
+    "time": 1102,
+    "timeDay": 2297,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Slack",
