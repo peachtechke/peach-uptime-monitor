@@ -94,7 +94,7 @@
     "url": "https://peachcars-ke.3cx.sc:5001/",
     "icon": "https://icons.duckduckgo.com/ip3/peachcars-ke.3cx.sc.ico",
     "slug": "3-cx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -106,6 +106,7 @@
     "timeMonth": 801,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-14": 149
     }
   },
