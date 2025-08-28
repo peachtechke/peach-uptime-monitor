@@ -4,18 +4,20 @@
     "url": "https://peachcars.co.ke/",
     "icon": "https://icons.duckduckgo.com/ip3/peachcars.co.ke.ico",
     "slug": "peach-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1415,
-    "timeWeek": 1623,
-    "timeMonth": 1622,
-    "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "time": 1470,
+    "timeDay": 940,
+    "timeWeek": 1478,
+    "timeMonth": 1586,
+    "timeYear": 1470,
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   },
   {
     "name": "Peach HQ",
