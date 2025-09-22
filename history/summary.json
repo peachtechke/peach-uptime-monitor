@@ -10,11 +10,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 1464,
-    "timeDay": 1293,
-    "timeWeek": 1774,
-    "timeMonth": 1457,
-    "timeYear": 1464,
+    "time": 1458,
+    "timeDay": 792,
+    "timeWeek": 1755,
+    "timeMonth": 1453,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2025-09-16": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 834,
-    "timeWeek": 797,
+    "time": 743,
+    "timeDay": 589,
+    "timeWeek": 781,
     "timeMonth": 741,
-    "timeYear": 745,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 738,
-    "timeWeek": 1276,
+    "time": 790,
+    "timeDay": 457,
+    "timeWeek": 1256,
     "timeMonth": 842,
-    "timeYear": 794,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 301,
-    "timeWeek": 228,
+    "timeDay": 115,
+    "timeWeek": 234,
     "timeMonth": 182,
     "timeYear": 176,
     "dailyMinutesDown": {}
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 1663,
-    "timeWeek": 727,
-    "timeMonth": 588,
-    "timeYear": 595,
+    "time": 594,
+    "timeDay": 497,
+    "timeWeek": 763,
+    "timeMonth": 592,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 797,
-    "timeDay": 787,
-    "timeWeek": 793,
-    "timeMonth": 809,
-    "timeYear": 797,
+    "time": 795,
+    "timeDay": 590,
+    "timeWeek": 788,
+    "timeMonth": 792,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2025-07-14": 149
     }
