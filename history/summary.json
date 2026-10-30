@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1759,
-    "timeDay": 1129,
-    "timeWeek": 1370,
-    "timeMonth": 1430,
-    "timeYear": 1843,
+    "time": 1757,
+    "timeDay": 1427,
+    "timeWeek": 1339,
+    "timeMonth": 1422,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2025-11-04": 50,
       "2026-02-09": 35,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 926,
-    "timeWeek": 914,
-    "timeMonth": 945,
-    "timeYear": 836,
+    "time": 818,
+    "timeDay": 1254,
+    "timeWeek": 988,
+    "timeMonth": 951,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assess.peachcars.co.ke.ico",
     "slug": "peach-assessment-tool",
     "status": "down",
-    "uptime": "20.42%",
+    "uptime": "20.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 292,
+      "2026-10-30": 292,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -427,8 +428,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -443,9 +443,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 189,
-    "timeDay": 58,
-    "timeWeek": 267,
-    "timeMonth": 224,
+    "timeDay": 185,
+    "timeWeek": 242,
+    "timeMonth": 225,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2026-06-06": 120,
@@ -463,10 +463,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 629,
-    "timeDay": 439,
-    "timeWeek": 635,
-    "timeMonth": 714,
+    "time": 630,
+    "timeDay": 725,
+    "timeWeek": 592,
+    "timeMonth": 718,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-12-05": 26,
@@ -484,11 +484,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 824,
-    "timeDay": 846,
-    "timeWeek": 953,
-    "timeMonth": 932,
-    "timeYear": 830,
+    "time": 825,
+    "timeDay": 964,
+    "timeWeek": 806,
+    "timeMonth": 939,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-09-24": 250
     }
